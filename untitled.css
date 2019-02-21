@@ -1,0 +1,107 @@
+CSS
+
+*{
+	color:red;
+}
+
+.purple {
+	background-color:#1a001a;
+}
+.red {
+	background-color:red;
+}
+
+h1 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 50px;
+}
+
+img {
+	width: 100%;
+}
+
+.padding {
+	padding-left: 210px
+}
+
+.bio {
+	padding-top: 10px
+}
+
+.atake {
+	padding-top: 85px
+}
+
+a {
+	color:red;
+}
+
+.grammy {
+	padding-left: 435px
+}
+
+.grammytext {
+	padding-left: 26px
+}
+
+.soon {
+	padding-left: 80px
+}
+
+.thesauce {
+	background-image: url("img/thesauce.jpeg");
+	font-size: 25px
+}
+
+
+.ataketext {
+	font-size: 18px;
+	line-height: 2;
+}
+
+.thedrip {
+	background-image: url("img/thesauce.jpeg");
+	font-size: 20px
+}
+
+.atakepic {
+	padding-top: 25px
+}
+
+.bigsauce {
+	padding-top: 25px
+}
+
+.water {
+	padding-top: 10px
+	padding-bottom: 10px
+}
+
+.thedrip2 {
+	background-image: url("img/raw.jpeg");
+	font-size: 15px
+}
+
+.onfoenem {
+	background-image: url("img/law.jpeg");
+}
+
+body {
+	background-image: url("img/jaw.jpeg");
+}
+
+.flex {
+	padding-left: 70px
+}
+
+.margin {
+	margin-bottom: 10px
+}
+
+.darkuzi {
+	background-image: url(".jpg");
+	font-size: 15px
+}
+p {
+	color: white;
+}
